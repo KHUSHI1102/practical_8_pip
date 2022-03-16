@@ -1,5 +1,6 @@
 #ID: 20CE142
 #Name: khushi tala
+#https://github.com/KHUSHI1102/practical_8_pip/blob/main/pra_8
 class stack:
     def __init__(self):
         self.items=[]
